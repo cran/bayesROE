@@ -23,8 +23,6 @@ print.bayesROE <- function(x, ...) {
 #' See `?golem::get_golem_options` for more details.
 #' @param init Named list containing the arguments that are passed to the bayesROE 
 #'     function: ee, se, delta, alpha.
-#'     
-#' @return Start Shiny server and access application using browser
 #' 
 #' @examples
 #' # reproducing Figure 3 from Hoefler and Miller (2023)

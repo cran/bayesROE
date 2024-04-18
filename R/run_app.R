@@ -11,8 +11,6 @@
 #' @param cols Named list of RGB hexadecimal color keys.
 #' @inheritParams shiny::shinyApp
 #' 
-#' @return Start Shiny server and access application using browser
-#' 
 #' @examples
 #' # reproducing Figure 3 from Hoefler and Miller (2023)
 #' init <- list(ee = 9, se = 3.9, delta = c(0, 3.75), alpha = 0.025)

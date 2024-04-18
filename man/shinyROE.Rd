@@ -13,9 +13,6 @@ function: ee, se, delta, alpha.}
 \item{...}{arguments to pass to golem_opts.
 See `?golem::get_golem_options` for more details.}
 }
-\value{
-Start Shiny server and access application using browser
-}
 \description{
 Initialize and execute a local Shiny session to 
     interactively visualize and explore the Bayesian Regions of Evidence.
